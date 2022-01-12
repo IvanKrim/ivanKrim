@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋. Welcome to my page.
+## My name is Ivan and I'm iOS developer.
 ![Header](https://github.com/IvanKrim/ivanKrim/blob/main/Assets/T-Rex.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivankrim&hide=prs,stars,issues)
+
 
 <!--
 **IvanKrim/ivanKrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
