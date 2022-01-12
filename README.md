@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/IvanKrim/ivanKrim/blob/main/Assets/T-Rex.png)]
+![Header](https://github.com/IvanKrim/ivanKrim/blob/main/Assets/T-Rex.png)
 
 <!--
 **IvanKrim/ivanKrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
