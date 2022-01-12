@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome to my page.
-### My name is Ivan and I'm iOS developer.
+### My name is Ivan and I'm iOS Developer.
 ![Header](https://github.com/IvanKrim/ivanKrim/blob/main/Assets/T-Rex.png)
 
 
