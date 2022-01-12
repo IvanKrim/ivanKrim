@@ -1,4 +1,4 @@
-### Hi there 👋. Welcome to my page
+### Hi there 👋, welcome to my page.
 ### My name is Ivan and I'm iOS developer.
 ![Header](https://github.com/IvanKrim/ivanKrim/blob/main/Assets/T-Rex.png)
 
